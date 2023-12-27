@@ -17,6 +17,7 @@
         <p class="text-center">Elige tus servicios a continuacion</p>
         <div id="servicios" class="listado-servicios"></div>
     </div>
+    
     <div id="paso-2" class="seccion">
         <h2>Tus datos y cita</h2>
         <p class="text-center">Coloca tus datos y dechas de tu cita</p>
